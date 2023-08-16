@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import img1 from '../Postpage-web – 1/Mask Group 16.png'
 
 const Footer = () => {
   const ScrollToTop = () => {
