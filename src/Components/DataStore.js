@@ -66,7 +66,7 @@ function DataStore() {
       Cat: "Bollywood",
       heading: "Bloody Daddy top the list of most viewed OTT movies of 2023.",
       image: "https://upload.wikimedia.org/wikipedia/en/8/8a/Bloody_Daddy.jpg",
-      short_description: "With the debut of “Bloody Daddy,” a thrilling murder thriller featuring Bollywood sensation Shahid Kapoor in the lead role, t.",
+      short_description: "With the debut of “Bloody Daddy,” a thrilling murder thriller featuring Bollywood sensation.",
       Date:"August 21 2023",
       long_description:"With the debut of “Bloody Daddy,” a thrilling murder thriller featuring Bollywood sensation Shahid Kapoor in the lead role, the year 2023 marked a game-changing moment in the world of online streaming. The plot centres around a broken-down, tough man who battles cops and crime lords to save the one relationship that matters to him. It drew 16.6 million viewers.Bloody Daddy is a 2023 Indian Hindi-language action thriller film directed by Ali Abbas Zafar who co-wrote the film with Aditya Basu and Siddharth–Garima, and produced by Jio Studios. It features Shahid Kapoor, Sanjay Kapoor, Diana Penty, Ronit Roy, Rajeev Khandelwal, Ankur Bhatia and Vivan Bhatena.[1] It is an adaptation of the 2011 French film Sleepless Night, which had previously had an Indian remake (in the Tamil language) as Thoongaa Vanam (2015), starring Kamal Haasan.Sumair Azad is an NCB officer, who along with his deputy Jagadish Prasad alias Jaggi in Gurugram bust down a drug deal, leading the drug lord Sikandar to kidnap Sumair's son Atharva in exchange for retrieving the bag of cocaine. With no other option left, Sumair agrees to retrieve the bag from the NCB headquarters, and bring it to his club for the exchange. Sumair's act of hiding the bag in the men's toilet is noticed by his assistant Aditi Rawat, who becomes suspicious. Thinking that Sumair is involved in drug smuggling, Aditi informs her superior Sameer Singh and begin to pursue Sumair, taking away the bag of cocaine from the toilet in the process.",
     },
@@ -85,7 +85,7 @@ function DataStore() {
       heading: "EXCLUSIVE: Kiara approached to star opposite Ranveer in Don 3",
       image: "https://www.pinkvilla.com/images/2023-08/1636698627_ranveer-singh-kiara-advani-don3.jpg",
       Date:"August 21 2023",
-      short_description: "EXCLUSIVE: Kiara Advani approached to star opposite Ranveer Singh in Don 3; Shooting begins mid-2024 (Picture Courtesy: Instagram)",
+      short_description: "EXCLUSIVE: Kiara Advani approached to star opposite Ranveer Singh in Don 3;",
       long_description:"After years of anticipation and various speculations, Farhan Akhtar has finally announced Don 3. The filmmaker is now reimagining the Don franchise with Ranveer Singh, who will continue on the legacy of Amitabh Bachchan and Shah Rukh Khan, who previously played the roles of Don in 1978 and 2006, respectively. The stylish action thriller was announced just today with a promo that introduces Ranveer as the new generation Don. The movie will release in theatres in 2025, and while it’s still far from production, we hear the makers have already started looking for the female lead opposite Ranveer.Pinkvilla has exclusively learnt that Kiara Advani has been approached to play the leading lady in Don 3. The actress was spotted at the office of Excel Entertainment yesterday, and sources have confirmed that their meeting was for Don 3. Farhan Akhtar has narrated the basic plotline of Don 3 to Kiara, and she loved it. Kiara has given her verbal nod and is excited to be a part of this thrilling world of rebooted Don alongside Ranveer Singh, with whom she has always dreamed of working. "
     },
     {
@@ -94,7 +94,7 @@ function DataStore() {
       heading: "Will Ranveer Singh, Karan Johar make a cameo with Aryan Khan ",
       image: "https://www.pinkvilla.com/images/2023-08/1963266287_ranveer-singh-karan-johar-aryan-khan-stardom.jpg",
       Date:"August 21 2023",
-      short_description: "Karan Johar and Ranveer Singh are making massive waves at the box office with the success of their most recent venture, Rocky Aur Rani Kii Prem Kahaani. ",
+      short_description: "Karan Johar and Ranveer Singh are making massive waves at the box office. ",
       long_description:"According to a report by Mid-Day, Karan Johar and Ranveer Singh, are all set to work together for the second time after Rocky Aur Rani Kii Prem Kahaani. However, this time around, instead of working as a director and actor, Johar and Singh will be seen facing the camera together as actors! Yes, you heard it right. As per the exclusive report by the news portal, KJo and his Rocky aka Ranveer Singh, are going to share screen space in Aryan Khan’s debut web series, which has been tentatively titled ‘Stardom’. Back in April, Pinkvilla revealed in an exclusive report that Aryan’s directorial debut is titled Stardom. Coming back to Karan and Ranveer, the duo reportedly shot an elaborate sequence for Junior Khan’s debut web series, on Monday."
     },
     {
@@ -103,7 +103,7 @@ function DataStore() {
       heading: "Shah Rukh Khan fans will celebrate 10 years of Chennai Express",
       image: "https://www.pinkvilla.com/images/2023-08/1894633804_chennai-express-jawan.jpg",
       Date:"August 21 2023",
-      short_description: "Shah Rukh Khan's renowned fan club, SRK Universe, has arranged a special screening for King Khan and Deepika Padukone-starrer superhit 2013 comedy, Chennai Express in over 52 cities.",
+      short_description: "Shah Rukh Khan's renowned fan club, SRK Universe, has arranged a special screening for King Khan.",
       long_description:"Shah Rukh Khan is all set to weave his quintessential ‘SRK magic’ on the silver screen with his second-biggest outing of the year, Jawan. After taking social media by storm with the explosive prevue, the makers treated millions of SRKians with the first-ever song from Jawan, Zinda Banda, a massy and peppy dance track that is already ruling the charts. Amid the rising fever for Jawan, here comes a piece of good news that will leave King Khan and Deepika Padukone fans delighted for sure. Shah Rukh Khan and Deepika Padukone starrer Chennai Express clocked 10 years on Tuesday. The one-month countdown for Jawan’s release too began on August 8, i.e. today. To celebrate the two milestones, the decade-long success of Chennai Express and Jawan’s one month until its release, Badshah’s popular fan club, SRK Universe, launched a unique promotional campaign. "
     },
     {
@@ -112,7 +112,7 @@ function DataStore() {
       heading: "DON 3 First Look Out:",
       image: "https://www.pinkvilla.com/images/2023-08/1292503488_don-3.jpg",
       Date:"August 21 2023",
-      short_description: "After a long wait, director-actor Farhan Akhtar finally announced Ranveer Singh as the new Don. He shared the official first look promo of Don 3 on social media.",
+      short_description: "After a long wait, director-actor Farhan Akhtar finally announced Ranveer Singh as the new Don.",
       long_description:"On August 8, Farhan Akhtar announced the much-awaited film, Don 3 on social media as he shared a motion poster. Without giving away much, the video featured number 3 shining bright red with the tagline ‘A New Era Begins’. After much anticipation, on August 9, the makers finally announced that Ranveer Singh will be headlining Don 3. Interestingly, Pinkvilla was the first to exclusively report that Ranveer is the new Don.A while ago, Ranveer shared the first look promo of Don 3 leaving netizens quite excited. The video shows Ranveer in a stylish avatar. His swagger antics in the promo are on-point. Apart from him, the video also features an impressive background score and exciting visuals. Not only that but Ranveer is also seen saying the iconic dialogue 11 mulkon ki police dhundti hai mujhe par pakad paya hai mujhko kaun, main hun don. The video ends on a high with Don's theme music. Ranveer shared the video and wrote, A New Era Begins. #Don3. Have a look:"
     },
     {
@@ -121,7 +121,7 @@ function DataStore() {
       heading: "Kaun Banega Crorepati 15",
       image: "https://www.pinkvilla.com/images/2023-08/864747679_big-b-2-1.jpg",
       Date:"August 21 2023",
-      short_description: "Kaun Banega Crorepati 15 is just a few days away from its premiere. In the new promo, we see a contestant having an interesting request from the host.",
+      short_description: "Kaun Banega Crorepati 15 is just a few days away from its premiere. In the new promo,.",
       long_description:"The clock has started ticking for the premiere of Kaun Banega Crorepati  Season 15. This season promises to be fresh and unique from the previous seasons. The show is promoting the idea of new beginnings and we can also see a change in the host and legendary star Amitabh Bachchan’s styling. The channel has started releasing fresh promos of the episodes and in the new promo, we witnessed a contestant making an interesting demand from the host.Kaun Banega Crorepati is back with a bang with its fifteenth season. The channel has been releasing back-to-back-promos to keep the viewers hooked to the show. In the new promo, we see a contestant making a unique demand from host Amitabh Bachchan leaving him and the audience in splits. In the promo, Mr Bachchan tells the contestant that he has taken a huge risk in guessing the answer as he will end up losing all the prize money he had earned till now to which the contestant had a hilarious reply. He said, “I have one request to make, I am a very strong-hearted person but please do not play this prank of suspense with someone who is weak-hearted as in a blink he will shift to the hospital bed from the hot seat."
     },
     {
@@ -166,7 +166,7 @@ function DataStore() {
       heading: "Your Favorite Celebs Who Are Still Not Married",
       image: "https://dlbztvn8kichw.cloudfront.net/wp-content/uploads/2019/02/18130143/Your-Favorite-Celebs-Who-Are-Still-Not-Married-1024x422.jpg.webp",
       Date:"August 21 2023",
-      short_description: "Goldie Hawn is one of Hollywood’s bankable stars. This award-winning actress has had her fair share of love interests in real life before she fell for the actor and heartthrob Kurt Russell.",
+      short_description: "Goldie Hawn is one of Hollywood’s bankable stars. This award-winning actress has had her fair share of love.",
       long_description:"Goldie Hawn is one of Hollywood’s bankable stars. This award-winning actress has had her fair share of love interests in real life before she fell for the actor and heartthrob Kurt Russell. They have been together since Valentine’s day of 1983 and have been together for more than 30 years. This pair have raised four children together, however, they seem to be uninterested in tying the knot. Hawn has long insisted that marriage is an unnecessary marker in relationships."
     },
     {
@@ -184,7 +184,7 @@ function DataStore() {
       heading: "Jessie James Decker",
       image: "https://hollywoodlife.com/wp-content/uploads/2022/08/Jessie-James-Decker-country-star-sheer-looks-ss-02.jpg?w=680",
       Date:"August 21 2023",
-      short_description: "Jessie James Decker poses for photos while attending the 2017 Billboard Music Awards. She rocked a cutout jumpsuit with sheer detailing for the event.",
+      short_description: "Jessie James Decker poses for photos while attending the 2017 Billboard Music Awards.",
       long_description:"Jessie James Decker poses for photos while attending the 2017 Billboard Music Awards. She rocked a cutout jumpsuit with sheer detailing for the event.Sheer is a hot trend and country stars like Kelsea know how to slay the look. From performances to red carpets and more, the ladies in country music have rocked a number of sexy sheer looks over the years. Miranda Lambert, Carrie Underwood, Jessie James Decker and more top our list of gorgeous country singers in sheer looks. Keep scrolling through the gallery to see more photos of country singers in sheer ensembles."
     },
     {
@@ -194,7 +194,7 @@ function DataStore() {
       image: "https://www.slashfilm.com/img/gallery/13-songs-cut-from-movie-soundtracks-for-unusual-reasons/intro-1687456038.webp",
       Date:"August 21 2023",
       long_description: "There are lots of stories out there about songs that were supposedly chosen to appear in or written specifically for film soundtracks, but many of them are urban legends or improperly researched. For instance, you could be forgiven for believing Bob Dylan's Lady Lay was written for inclusion in 1969's Midnight Cowboy, given how often that's reported on the internet, even though he said he penned it for Barbra Streisand.",
-      short_description:"There are lots of stories out there about songs that were supposedly chosen to appear in or written specifically for film soundtracks"
+      short_description:"There are lots of stories out there about songs that were supposedly chosen to appear in or written."
     },
     {
       id: 21,
@@ -211,7 +211,7 @@ function DataStore() {
       heading: "Danger Zone re-recording – Top Gun: Maverick",
       image: "https://www.slashfilm.com/img/gallery/13-songs-cut-from-movie-soundtracks-for-unusual-reasons/danger-zone-re-recording-top-gun-maverick-1687455669.webp",
       Date:"August 21 2023",
-      short_description: "The song Danger Zone is so welded to the original Top Gun that it's practically impossible to think about one without invoking the other.",
+      short_description: "The song Danger Zone is so welded to the original Top Gun that it's practically impossible.",
       long_description:"The song Danger Zone is so welded to the original Top Gun that it's practically impossible to think about one without invoking the other. It'd have been an unthinkable plane crash had the song not featured in 2022's supersonic hit, Top Gun: Maverick. But, sure enough, the film opens with the Kenny Loggins-sung original. Director Joseph Kosinski flat-out stated it was used to immediately reassure the audience that this was old-school Top Gun and not some modern take."
     },
     {
