@@ -6,7 +6,8 @@
 }
 
 body{
-    background-image: repeating-radial-gradient(rgb(252, 235, 162),white ,rgb(236, 173, 80));
+    /* background-image: repeating-radial-gradient(rgb(252, 235, 162),white ,rgb(236, 173, 80)); */
+    
 }
 
 
@@ -615,7 +616,7 @@ box-shadow: #afb0ae 0px 0px 5px;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
-    background-color: rgb(82, 216, 178);
+    background-color: #596b6629;
     padding: 10px;
 }
 
